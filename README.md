@@ -1,4 +1,4 @@
-# Working with APIs v2
+# Working with APIs (Updated)
 
 ## Learning Goals
 
